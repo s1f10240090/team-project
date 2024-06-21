@@ -1,3 +1,14 @@
 .lightblue{
     color: lightblue;
 }
+
+#thebody{
+    width: 70%;
+    background-color: lightcoral;
+    float: right;
+}
+#lighter{
+    width: 30%;
+    background-color: lightgreen;
+    float: left;
+}
