@@ -1,0 +1,26 @@
+.lightblue{
+    color: lightblue;
+}
+
+#thebody{
+    width: 80%;
+    background-color: lightcoral;
+    float: right;
+}
+
+#lighter{
+    width: 20%;
+    background-color: lightgreen;
+    float: left;
+    position: fixed;
+    left: 0%;
+    height: 98%;
+}
+
+h6{
+    font-size: 300px;
+}
+
+#testlighter{
+    color: red;
+}
