@@ -3,12 +3,20 @@
 }
 
 #thebody{
-    width: 70%;
+    width: 80%;
     background-color: lightcoral;
     float: right;
 }
+
 #lighter{
-    width: 30%;
+    width: 20%;
     background-color: lightgreen;
     float: left;
+    position: fixed;
+    left: 0%;
+    height: 98%;
+}
+
+#gamebalancelighter{
+    color: red;
 }

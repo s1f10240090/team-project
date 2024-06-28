@@ -3,15 +3,14 @@
 }
 
 #thebody{
-    width: 70%;
-    background-color: rgb(180, 199, 224);
+
+    width: 80%;
+    background-color: lightcoral;
+
     float: right;
 }
-#lighter{
-    width: 30%;
-    background-color: rgb(144, 213, 238);
-    float: left;
-}
+
+
 h3{
     
     color: yellow;
@@ -35,4 +34,15 @@ img{
 }
 p{
    
+    width: 20%;
+    background-color: lightgreen;
+    float: left;
+    position: fixed;
+    left: 0%;
+    height: 98%;
+}
+
+#gamemodelighter{
+    color: red;
+
 }
