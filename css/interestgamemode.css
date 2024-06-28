@@ -11,6 +11,7 @@
 }
 
 
+
 h3{
     
     color: yellow;
@@ -32,8 +33,9 @@ img{
   margin: auto;
   display: block;
 }
-p{
+
    
+#lighter{
     width: 20%;
     background-color: lightgreen;
     float: left;
